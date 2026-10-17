@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
+['remote "aws-remote"']
+    url = s3://anafernandezd24-dvcstore-20261017
